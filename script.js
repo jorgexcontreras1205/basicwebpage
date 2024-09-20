@@ -1,3 +1,5 @@
+alert("JavaScript is working!");
+
 // Function to display a simple message when the button is clicked
 function displayMessage() {
     document.getElementById("message").innerText = "Hello! You've clicked the button!";
